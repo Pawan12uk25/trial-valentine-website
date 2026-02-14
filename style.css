@@ -4,7 +4,7 @@ body {
     display: flex;
     justify-content: center;
     align-items: center;
-    background-image: url("https://raw.githubusercontent.com/lovesulei/valentine-ask/6a71943c6759760d464cba5bf9f2590471fe4721/cat_heart.gif");
+    background-image: url("https://raw.githubusercontent.com/lovesulei/valentine-ask/6a71943c6759760d464cba5bf9f2590471fe4721/heart-bg.jpg");
     font-family: "Pixelify Sans", sans-serif;
 }
 
@@ -138,3 +138,4 @@ display: inline-block;
     border-radius: 12px;
 
 }
+
