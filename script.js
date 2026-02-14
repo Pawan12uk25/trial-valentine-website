@@ -62,11 +62,12 @@ noBtn.addEventListener("mouseover", () => {
 yesBtn.addEventListener("click", () => {
     title.textContent = "Yippeeee!";
 
-    catImg.src = "cat_dance.gif";
+    catImg.src = "https://raw.githubusercontent.com/lovesulei/valentine-ask/6a71943c6759760d464cba5bf9f2590471fe4721/cat_dance.gif";
 
     document.querySelector(".letter-window").classList.add("final");
 
     buttons.style.display = "none";
 
     finalText.style.display = "block";
+
 });
